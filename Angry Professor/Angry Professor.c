@@ -14,7 +14,6 @@ int main(){
   int a[n];
 
   for(j=0;j<n;j++){
-
    scanf("%d",&a[j]);
   }
 
