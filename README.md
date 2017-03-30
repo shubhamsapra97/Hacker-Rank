@@ -1,1 +1,4 @@
-HACKER RAN
+ HACKER RANK
+
+• Algorithms c++
+	•Alternating characters
