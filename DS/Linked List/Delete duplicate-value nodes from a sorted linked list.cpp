@@ -15,7 +15,6 @@ Node* RemoveDuplicates(Node *head)
     }
     x:1;
     while(ptr->next != NULL){
-        //cout<<"CURRENT"<<ptr->data<<"\nNEXT"<<ptr->next->data;
         if(ptr->data == ptr->next->data){
             ptr->next = ptr->next->next;
             goto x;
