@@ -44,8 +44,6 @@ int main(){
         push(&start,k);
     }
 
-    struct node *ptr = start;
-
     while(start){
         printf("%d ",start->data);
         start = start->next;
